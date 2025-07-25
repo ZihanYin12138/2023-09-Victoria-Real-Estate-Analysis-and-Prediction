@@ -72,7 +72,9 @@ This consulting-style project investigates the determinants of rental prices in 
 ├── README.md
 ```
 
-> ⚠️ The `data/` subfolders in this repository are **intentionally left empty** to comply with storage and licensing constraints. Please refer to the preprocessing scripts to reconstruct the full pipeline.
+> ⚠️ **Note**  
+> 1. All datasets under the `data/` directory are stored in the archive `data.7z`. You need to extract the contents to use the project properly.  
+> 2. Datasets under `data/landing/external_data/` exceed GitHub’s file size limit (100MB) even after compression and are therefore **not included in `data.7z`**. Please download or prepare them manually from the data sources if needed. You can also use the raw and curated versions of them, which are archived in `data.7z`.
 
 ---
 
