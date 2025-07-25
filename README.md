@@ -3,7 +3,7 @@
 An end-to-end data science project analyzing internal and external drivers of rental prices across Victoria, Australia. The project includes web scraping, data preprocessing, geospatial integration, exploratory data analysis, and predictive modeling.
 
 📄 **中文版请见**: [`README.zh.md`](README.zh.md)  
-📑 **Project Presentation Slide (.pdf)** is located [here](Project_Presentation_Slide).
+📑 **Project Presentation Slide** is located [here](Project_Presentation_Slide.pdf).
 
 ---
 
