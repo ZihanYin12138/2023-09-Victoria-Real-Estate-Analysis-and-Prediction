@@ -81,7 +81,7 @@ This consulting-style project investigates the determinants of rental prices in 
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python, Jupyter Notebook  
-- **Libraries**: Pandas, NumPy, Scikit-learn, Seaborn, GeoPandas, Matplotlib, Shapely, Requests, BeautifulSoup  
+- **Libraries**: Pandas, NumPy, Scikit-learn, Seaborn, GeoPandas, Folium, Matplotlib, Shapely, Requests, BeautifulSoup  
 - **Geospatial Tools**: GeoPandas, Shapefiles, OpenRouteService  
 - **Web Scraping**: `requests`, `BeautifulSoup`, `.json` parsing from Domain.com.au and other sites  
 - **Modeling**: Linear Regression, Random Forest, KNN, Neural Networks  
